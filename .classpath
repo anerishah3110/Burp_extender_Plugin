@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Downloads/httpclient-osgi-4.2.1-sources.jar/httpclient-osgi-4.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/burpsuite_free_v1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/httpclient-4.1.3.jar" sourcepath="D:/Downloads/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/httpcore-4.0.1.jar/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/fdb-java-1.0.0.jar"/>
+	<classpathentry kind="output" path="src"/>
+</classpath>
